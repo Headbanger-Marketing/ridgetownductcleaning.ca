@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ridgetownductcleaning.ca/sitemap-index.xml
