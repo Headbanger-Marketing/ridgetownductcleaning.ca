@@ -1,2 +1,25 @@
 # Ridgetown Duct Cleaning
-HVAC services in Ontario.
+
+> Ridgetown Duct Cleaning is a local HVAC company serving Ridgetown, Chatham-Kent, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 708-7251  |  Email: contact@ridgetownductcleaning.ca  |  Website: https://ridgetownductcleaning.ca
+
+## Key pages
+
+- [Home](https://ridgetownductcleaning.ca/): Ridgetown Duct Cleaning homepage with service overview and FAQ
+- [About](https://ridgetownductcleaning.ca/about/): About the company and service area
+- [Contact](https://ridgetownductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://ridgetownductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Ridgetown, Ontario
+- [Dryer Vent Cleaning](https://ridgetownductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Ridgetown, Ontario
+- [Furnace & AC Cleaning](https://ridgetownductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Ridgetown, Ontario
+- [HRV & Ventilation Cleaning](https://ridgetownductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Ridgetown, Ontario
+- [Duct Sanitizing & Deodorizing](https://ridgetownductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Ridgetown, Ontario
+- [Duct Sealing & Repair](https://ridgetownductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Ridgetown, Ontario
+- [Commercial Duct Cleaning](https://ridgetownductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Ridgetown, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Ridgetown are answered on the homepage.
